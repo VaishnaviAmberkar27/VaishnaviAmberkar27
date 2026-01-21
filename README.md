@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there 👋 I'm Vaishnavi Amberkar<br><br>🎓 **Master of Computer Application (MCA) Graduate**<br>💻 Aspiring Software Developer | Future Educator<br>📍 Maharashtra, India<br><br>---<br><br>## 👩‍💻 About Me<br><br>I am an MCA graduate with a strong foundation in computer applications and a keen interest in software development, data analysis, and emerging technologies. I enjoy building practical projects, learning new tools, and continuously improving my problem-solving abilities.<br><br>I am particularly interested in:<br><br>* Writing clean and maintainable code<br>* Building web and desktop applications<br>* Exploring basics of Machine Learning and Data Analytics<br>* Teaching and mentoring students in the future (MCA/BCA/BSc)<br><br>---<br><br>## 🛠️ Technical Skills<br><br>**Programming Languages**<br><br>* C, C++<br>* Python<br><br>**Web Technologies**<br><br>* HTML, CSS, JavaScript<br>* ASP.NET, C#<br><br>**Databases**<br><br>* MySQL<br>* MongoDB<br><br>**Tools & Technologies**<br><br>* Git & GitHub<br>* Tableau<br>* Software Testing (Basic)<br><br>**Machine Learning**<br><br>* Basic concepts and practical exposure<br><br>---<br><br>## 📂 Projects<br><br>### 🐾 Animal Rescue Center (2024)<br><br>A dynamic web application developed using **ASP.NET**, **C#**, and **MySQL**.<br><br>* Manages animal rescue records efficiently<br>* User-friendly interface for data handling<br>* Focused on real-world problem solving<br><br>### ♻️ Green Scan (Academic Research Project)<br><br>AI-based waste recognition system for smart recycling decisions.<br><br>* Deep Learning-based image recognition<br>* Simple GUI-based desktop application<br>* Focus on sustainability and smart technology<br><br>---<br><br>## 🎓 Education<br><br>* **Master of Computer Application (MCA)**<br>  Finolex Academy of Management and Technology<br><br>* **Bachelor of Computer Applications (BCA)** – CGPI: 7.54<br>  MKSSS College of Computer Application, Ratnagiri<br><br>* **HSC (Science)** – 73.83%<br>  Gode Date Jr. College, Rajapur<br><br>* **SSC** – 73.20%<br>  R.B.U.S. Desai Vidhyamandir, Kumbhavade<br><br>---<br><br>## 🌱 Certifications<br><br>* Software Testing<br>* Employability Skill Program<br>* Hardware and Networking<br><br>---<br><br>## 🤝 Extra-Curricular Activities<br><br>* **NSS Volunteer**<br>  Actively participated in social awareness campaigns, cleanliness drives, and teamwork-based community activities.<br><br>---<br><br>## 🌟 Soft Skills<br><br>* Problem Solving<br>* Imaginative Thinking<br>* Inquisitive Nature<br>* Adaptability<br><br>---<br><br>## 📫 Connect With Me<br><br>* 📧 Email: [amberkarvaishnavi27@gmail.com](mailto:amberkarvaishnavi27@gmail.com)<br>* 💼 LinkedIn: [Vaishnavi Amberkar](https://www.linkedin.com/in/vaishnavi-amberkar-769735289/)<br><br>---<br><br>⭐ *I believe in continuous learning, practical implementation, and using technology to create meaningful impact.*<br>
 
-<!--
-**VaishnaviAmberkar27/VaishnaviAmberkar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaishnavi-Amberkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnaviamberkar42@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VaishnaviAmberkar27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VaishnaviAmberkar27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviAmberkar27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VaishnaviAmberkar27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VaishnaviAmberkar27&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
